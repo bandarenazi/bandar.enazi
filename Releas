@@ -1,0 +1,7 @@
+Origin: test bandar.enazi
+Label: bandar.enazi
+Suite: stable 
+Version: 1.0 
+Architectures: iphoneos-arm 
+Components: main 
+Description: repo
